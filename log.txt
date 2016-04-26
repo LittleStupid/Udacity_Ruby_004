@@ -1,0 +1,17 @@
+commit fb964e8b79819fa731ec0adbc70ca13d49e933ef
+Author: LittleStupid <lttlstpd@live.com>
+Date:   Tue Apr 26 16:32:13 2016 +0800
+
+    description of new fetures
+
+commit ab9e83626ea9495818542c1c1d9b8cfa9c454489
+Author: LittleStupid <lttlstpd@live.com>
+Date:   Tue Apr 26 16:31:14 2016 +0800
+
+    main work done!
+
+commit 88a325968c6a19ea51d5a1e985b4678be66952ba
+Author: LittleStupid <lttlstpd@live.com>
+Date:   Tue Apr 26 16:30:50 2016 +0800
+
+    init empty
